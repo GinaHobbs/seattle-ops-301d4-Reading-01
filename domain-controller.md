@@ -1,0 +1,3 @@
+# What is a Windows Domain and How Does it Affect My PC?
+
+Windows domains are typically used on large networks such as in corporations, schools or the government. A home computer that isn't part of a domain has its own settings and user accounts, but a domain computer is different- all of its settings are controlled by a domain controller. Windows domains allow network admins to manage a large number PC's and control them from one place. Loggin in is different than with a local account- all accounts are authenticated on the domain controller so it is possible to log on to any computer on the domain. 
