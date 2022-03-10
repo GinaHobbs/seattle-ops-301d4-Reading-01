@@ -1,0 +1,3 @@
+# What is Patch Tuesday for WIndows and When is it?
+
+Microsoft's "Patch Tuesday" occurs on the second Tuesday of each month. On this day Microsoft releases large updates for Windows products. Microsft's patches aren't released automatically and are instead gathered into a large update package which is released on patch Tuesday. Microsft does this to make the patches as predictable as possible for system administrators. One exception to this is severe security vulnerabilities that leave a system open to attack- in this case Microsft will roll out an update asap.
