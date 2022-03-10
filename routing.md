@@ -1,0 +1,3 @@
+# Routing
+
+VirtualBox offers many network modes for virtual machines, which are an essential part of networking. Each VirtualBox VM can use up to eith virtual netwrk adapters, each of which is reffered to as a NIC. The network adapter can be accessed in the VirtualBox VM settings. There are various adapter settings, each of which provide a different way of obtaining an IP address and operating over a  network.
