@@ -1,0 +1,3 @@
+# What is Active Directory
+
+Active Directory is Microsoft's directory and identiy management service for Windows Domain netowrks. AD is made up offidderent services such as domain services which is used to manage users and resources. It is the primary AD service and is used to authenticate users who want to access network resources. A server running AD is called a domain controller. During login users authenticate to the domain controller and are granted access.
