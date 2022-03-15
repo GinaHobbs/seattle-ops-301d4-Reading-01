@@ -1,0 +1,3 @@
+# Network Address Translation
+
+A public IP address is necessary to access the internet. However, using NAT one can have as many private IP addresses as they want behind a router and they can all use the same public IP address. This conserves IPv4 IP addresses as there are only about 4.3 billion IP addresses available for the world. NAT is responsible for translating the private IP address to a public address and also translating the public IP address to a private IP address. 
